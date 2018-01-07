@@ -1,1 +1,0 @@
-# dotnet-csharp-database-clientapp
