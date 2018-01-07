@@ -1,0 +1,3 @@
+﻿SELECT *
+FROM Client
+WHERE Id > 1 OR Address IS NOT NULL 
